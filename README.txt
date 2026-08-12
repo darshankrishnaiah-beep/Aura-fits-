@@ -1,0 +1,1 @@
+Upload index.html and the products folder to your GitHub Pages repository.
